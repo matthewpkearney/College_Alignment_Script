@@ -1,5 +1,5 @@
 # College_Alignment_Script
-A Python script that collects attributes and analyzes data based on ranking important criteria in choosing an educational institution to reveal the programs that align best with the user's interests.
+A Python script that collects attributes and analyzes data based on ranking important criteria in choosing an educational institution to reveal the programs that align best with the user's interests. Idea: turn this into a web-development project, allowing more people to use it with overall better functionality. 
 
 
 # Reason:
